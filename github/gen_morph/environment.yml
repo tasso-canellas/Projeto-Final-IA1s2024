@@ -1,0 +1,22 @@
+name: bob.paper.icassp2022_morph_generate
+channels:
+  - https://www.idiap.ch/software/bob/conda/label/archive
+  - https://www.idiap.ch/software/bob/conda
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3
+  - bob.io.image
+  - bob.ip.dlib
+  - pillow
+  - matplotlib
+  - scikit-image
+  - requests
+  - keras=2.2.4
+  - tensorflow-gpu=1.15.0
+  - docopt
+  - imutils
+  - pandas
+  - pip
+  - pip:
+    - keras-vggface

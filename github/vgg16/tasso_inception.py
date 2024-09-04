@@ -1,6 +1,6 @@
 import torch.nn as nn
 import torch.nn.functional as F
-from facenet_pytorch import MTCNN, InceptionResnetV1, fixed_image_standardization, training, extract_face
+from github import MTCNN, InceptionResnetV1, fixed_image_standardization, training, extract_face
 import torch
 from torch.utils.data import DataLoader, SubsetRandomSampler, SequentialSampler
 from torchvision import datasets, transforms, models

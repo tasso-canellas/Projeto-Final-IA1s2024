@@ -1,0 +1,8 @@
+A pasta de gen_morph contém os códigos já modificados e implementados das arquiteturas utilizadas. Porém, as redes devem ser baixadas anteriormente através da ferramenta Bob (Mais explicado no README dentro da pasta, onde o autor demonstra a instalação do ambiente Conda e download das redes)
+
+As bases de dados utilizadas, London Face Lab e Chicago Face Database, podem ser encontradas nos respectivos sites:
+https://figshare.com/articles/dataset/Face_Research_Lab_London_Set/5047666
+https://www.chicagofaces.org/
+
+Depois de implementado e criados os morphs, são escolhidos aleatoriamente, assim como dito no artigo, para a implementação dos classificadores.
+
